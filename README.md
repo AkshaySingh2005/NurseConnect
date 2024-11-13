@@ -26,7 +26,10 @@ A life-saving application designed for senior citizens living alone. In the even
 
 The system flow is represented in the flowchart below:
 
+
 ![Flowchart](https://github.com/AkshaySingh2005/NurseConnect/blob/main/diagram-export-11-14-2024-1_55_28-AM.png)
+
+
 
 1. **Emergency Detected**: An emergency alert is triggered for the patient.
 2. **Get Patient Location**: The system retrieves the patient's location using the Geolocation API.
