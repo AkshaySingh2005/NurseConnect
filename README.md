@@ -80,7 +80,7 @@ The system flow is represented in the flowchart below:
 
         ```bash
         cd /server
-        npm start
+        npm run dev
 
     -   Start the client:
 
